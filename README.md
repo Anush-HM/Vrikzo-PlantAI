@@ -128,10 +128,9 @@ Fetches existing care reminders for a user.
 
 ## 👥 Authors
 This project was developed as a collaborative team effort.  
-- Backend APIs, database design, email automation – [@Amruth0-0](https://www.github.com/Amruth0-0)   
+- Ml Model & Frontend - [@Anush-HM](https://www.github.com/Anush-HM)      - Backend APIs, database design, email automation – [@Amruth0-0](https://www.github.com/Amruth0-0)   
 - Frontend UI & Integrations - [@Yashwanthdot7](https://www.github.com/Yashwanthdot7)  
--  Ml Model & Frontend - .[@Anush-HM](https://www.github.com/Anush-HM)  
-  
+
 
 <br>
 
