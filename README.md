@@ -31,8 +31,7 @@ This project was developed as a collaborative effort, combining backend services
 Clone the project
 
 ```bash
-  git clone https://github.com/Anush-HM/Vrikzo---Plant-AI.git
-```
+  git clone https://github.com/Anush-HM/Vrikzo-PlantAI.git
 
 Go to the project directory
 
@@ -128,7 +127,8 @@ Fetches existing care reminders for a user.
 
 ## 👥 Authors
 This project was developed as a collaborative team effort.  
-- Ml Model & Frontend - [@Anush-HM](https://www.github.com/Anush-HM)      - Backend APIs, database design, email automation – [@Amruth0-0](https://www.github.com/Amruth0-0)   
+- Ml Model & Frontend - [@Anush-HM](https://www.github.com/Anush-HM)
+- Backend APIs, database design, email automation – [@Amruth0-0](https://www.github.com/Amruth0-0)   
 - Frontend UI & Integrations - [@Yashwanthdot7](https://www.github.com/Yashwanthdot7)  
 
 
