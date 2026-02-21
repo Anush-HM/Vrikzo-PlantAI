@@ -32,11 +32,11 @@ Clone the project
 
 ```bash
   git clone https://github.com/Anush-HM/Vrikzo-PlantAI.git
-
+```
 Go to the project directory
 
 ```bash
-  cd Vrikzo---Plant-AI
+  cd Vrikzo-PlantAI
 ```
 
 Install dependencies
