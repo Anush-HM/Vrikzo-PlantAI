@@ -31,7 +31,7 @@ This project was developed as a collaborative effort, combining backend services
 Clone the project
 
 ```bash
-  git clone https://github.com/Amruth0-0/Vrikzo---Plant-AI.git
+  git clone https://github.com/Anush-HM/Vrikzo---Plant-AI.git
 ```
 
 Go to the project directory
